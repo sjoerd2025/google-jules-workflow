@@ -1,5 +1,7 @@
 # 🤖 Google Jules Workflow Optimizer
 
+[![Built with Jules](https://img.shields.io/badge/Built%20with-Jules-715cd7?link=https://jules.google)](https://jules.google)
+
 **Google Jules is a free\* AI coding agent but it has some quirks that make development very slow. These are the scripts I use to speed up my workflow.**
 
 A comprehensive suite of TypeScript scripts designed to streamline AI-powered development workflows, specifically optimized for **Google Jules** (AI coding agent) integration with **GitHub Copilot**, **Linear** project management, and modern development practices.
