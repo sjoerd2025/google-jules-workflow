@@ -1,6 +1,6 @@
 # 🤖 Google Jules Workflow Optimizer
 
-[![Built with Jules](https://img.shields.io/badge/Built%20with-Jules-715cd7?link=https://jules.google)](https://jules.google)
+[![Built with Jules](https://img.shields.io/badge/Built%20with-Jules-715cd7)](https://jules.google)
 
 **Google Jules is a free\* AI coding agent but it has some quirks that make development very slow. These are the scripts I use to speed up my workflow.**
 
